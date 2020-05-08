@@ -1,0 +1,149 @@
+{
+    "results": [
+      {
+        "category": "category1ss",
+        "name": {
+          "title": "mr",
+          "first": "ernesto",
+          "last": "roman"
+        },
+        "email": "ernesto.roman@example.com",
+        "id": {
+          "name": "DNI",
+          "value": "73164596-W"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/73.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/73.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/73.jpg"
+        }
+      },
+      {
+        "category": "category2",
+        "name": {
+          "title": "mr",
+          "first": "adalbert",
+          "last": "bausch"
+        },
+        "email": "adalbert.bausch@example.com",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/22.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/22.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/22.jpg"
+        }
+      },
+      {
+        "category": "category3",
+        "name": {
+          "title": "ms",
+          "first": "julia",
+          "last": "van der ree"
+        },
+        "email": "julia.vanderree@example.com",
+        "id": {
+          "name": "BSN",
+          "value": "71291762"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/60.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/60.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/60.jpg"
+        }
+      },
+      {
+        "category": "category4",
+        "name": {
+          "title": "mrs",
+          "first": "kim",
+          "last": "parker"
+        },
+        "email": "kim.parker@example.com",
+        "id": {
+          "name": "SSN",
+          "value": "661-49-5970"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/63.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/63.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/63.jpg"
+        }
+      },
+      {
+        "category": "category5",
+        "name": {
+          "title": "mr",
+          "first": "daniel",
+          "last": "hall"
+        },
+        "email": "daniel.hall@example.com",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/16.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/16.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/16.jpg"
+        }
+      },
+      {
+        "category": "category6",
+        "name": {
+          "title": "mr",
+          "first": "arthur",
+          "last": "smith"
+        },
+        "email": "arthur.smith@example.com",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/27.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/27.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/27.jpg"
+        }
+      },
+      {
+        "category": "category7",
+        "name": {
+          "title": "mr",
+          "first": "hermes",
+          "last": "oliveira"
+        },
+        "email": "hermes.oliveira@example.com",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/17.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/17.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/17.jpg"
+        }
+      },
+      {
+        "category": "category8",
+        "name": {
+          "title": "miss",
+          "first": "caroline",
+          "last": "jensen"
+        },
+        "email": "caroline.jensen@example.com",
+        "id": {
+          "name": "CPR",
+          "value": "903328-3333"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/34.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/34.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/34.jpg"
+        }
+      }
+    ]
+  }
+  
